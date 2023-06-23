@@ -9,7 +9,7 @@ function card() {
     <div className="container">
       <div className="left-side">
         <h1 className="luba">Luba Ismakov</h1>
-        <h2>SSales Director, EMEA</h2>
+        <h2>Sales Director, EMEA</h2>
         <div className="icon-container">
 
         <a href='https://www.linkedin.com/in/lubaismakov/' target='blank'><img src={Linkedin} alt='Linkedin Icon'/></a>
