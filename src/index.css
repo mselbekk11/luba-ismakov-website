@@ -90,13 +90,13 @@ width: 100%;
 @media only screen and (max-width: 900px) {
   .container {
     grid-template-columns: 1fr;
-    min-height: 750px;
+    min-height: 650px;
     display: flex;
     flex-direction: column-reverse;
   }
 
   .right-side img {
-    width: 200px;
+    width: 150px;
   }
 
   .right-side {
